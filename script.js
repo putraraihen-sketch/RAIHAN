@@ -1,0 +1,1 @@
+alert("bbebas ketua")
